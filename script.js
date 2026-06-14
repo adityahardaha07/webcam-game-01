@@ -69,7 +69,7 @@ canvasCtx.fillText(
     35,
     80
 );
-if (fingers === 4) {
+if (fingers === 4 && 1 thumb) {
 
     canvasCtx.shadowColor = "#00ff00";
     canvasCtx.shadowBlur = 30;
@@ -90,7 +90,7 @@ if (fingers === 4) {
     canvasCtx.fillStyle = "#00ff00";
 
     canvasCtx.fillText(
-        "teri maa ki chut ",
+        "yayyyy a whole hand  ",
         -200,
         0
     );
