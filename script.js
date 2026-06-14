@@ -89,12 +89,7 @@ if (fingers === 4 ) {
 
     canvasCtx.fillStyle = "#00ff00";
 
-    canvasCtx.fillText(
-        
-        -200,
-        0
-    );
-
+  
     canvasCtx.restore();
 }
 
